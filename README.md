@@ -2,7 +2,7 @@
 
 This is a miniature Stepper driver board based on the DRV8844 driver intended to be used with the *Simple**FOC*** library. This board is a part of the SimpleFOC Mini series of boards that are designed to be small, low-cost, and easy to use with the SimpleFOC library. It has the same footprint as the *Simple**FOC**Mini* board.
 
-<img height="200px" src="./docs/side.png"  /><img height="200px" src="./docs/top.png" /><img height="200px" src="./docs/bottom.png"  />
+<img height="170px" src="./docs/side.png"  /><img height="170px" src="./docs/top.png" /><img height="170px" src="./docs/bottom.png"  />
 
 <img height="250px" src="./docs/pcb_top.png" align="right"/>
 
